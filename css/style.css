@@ -78,7 +78,7 @@ li a{
 
 .image-container{
     position: relative;
-    background-image: url("images/landing.JPG");
+    background-image: url("/images/landing.JPG");
     background-size: cover;
     background-position: center;
     height: 100%;
@@ -211,7 +211,7 @@ li a{
     margin-bottom: 30px;
     height: 400px;
     width: 400px;
-    background-image: url("images/dp.JPG");
+    background-image: url("/images/dp.JPG");
     background-size: cover;
     background-position: center;
 }
